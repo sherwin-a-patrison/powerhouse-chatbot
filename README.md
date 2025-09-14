@@ -1,30 +1,31 @@
-# Cypher Chatbot 🤖
+# PowerHouse Chatbot 🤖
 
-A simple AI chatbot built with **Flask**, **scikit-learn**, and a custom intent model.  
-It runs on [Render](https://render.com) and serves a responsive web UI.
+A smart AI chatbot built with **Flask**, **scikit-learn**, and a custom **intent model**.  
+It runs on **Render** and provides a responsive web UI for interactive chat.
 
 ---
 
-## 🚀 Demo
+## 🚀 Live Demo
+click here : https://powerhouse-chatbot.onrender.com/  
 
-👉 [cypher chatbot](https://cypher-chatbot.onrender.com)
-
-Type a message and get an instant reply.
+Type a message and get an instant AI-powered reply.
 
 ---
 
 ## 📁 Project Structure
 
-E:\CHATBOT
+E:\powerhouse-chatbot
 │
 
 ├── app.py # Flask backend
 
-├── chatbot_model.pkl # Trained model
+├── chatbot_model.pkl # Trained ML model
 
 ├── responses.json # Bot responses
 
-├── intents.csv # Training data 
+├── intents.csv # Training data
+
+├── intents.txt # Optional intent info
 
 ├── requirements.txt # Python dependencies
 
@@ -32,45 +33,49 @@ E:\CHATBOT
 
 ├── static/
 
-│ └── index.html # Frontend (chat UI)
+│ └── index.html # Frontend chat UI
 
-└── train_chatbot.py #  script to train model
+├── train_powerhousechatbot.py # Script to train model
 
-yaml
-Copy code
+└── test_powerhousechatbot.py # Optional testing script
+
+
 
 ---
 
 ## 🧑‍💻 Local Development
 
-1. **Clone the repo**
-
+### 1. Clone the repo
 ```bash
-git clone https://github.com/HarishKanna333/cypher-chatbot.git
-cd cypher-chatbot
-Create virtual environment & install deps
-
+git clone https://github.com/sherwin-a-patrison/powerhouse-chatbot.git
+cd powerhouse-chatbot
+2. Create virtual environment & install dependencies
 bash
 Copy code
 python -m venv venv
 .\venv\Scripts\activate   # Windows
 pip install -r requirements.txt
-Run locally
-
+3. Run locally
 bash
 Copy code
 python app.py
-Open http://127.0.0.1:5000 in browser.
+Open http://127.0.0.1:5000 in your browser.
 
 🌐 Deployment
 Hosted on Render.
 
-Push code to GitHub → Render auto builds and deploys.
+Steps:
+
+Push code to GitHub.
+
+Connect repo to Render.
+
+Render auto builds and deploys the chatbot.
 
 🛠️ Technologies Used
-Flask
+Python
 
-Flask-CORS
+Flask & Flask-CORS
 
 scikit-learn
 
@@ -81,29 +86,25 @@ HTML / CSS / JavaScript (frontend)
 ✨ Features
 Particle background with light/dark theme
 
-Intent classification using ML
+Intent classification using machine learning
 
 Responsive design (mobile-friendly)
 
 REST API endpoint: /chat
 
 📄 License
-MIT License © 2025 Harish Kanna
+MIT License © 2025 sherwin-a-patrison
 
-yaml
+✅ How to Add This README
+Create E:\powerhouse-chatbot\README.md
+
+Paste the above content and save
+
+Push to GitHub:
+
+powershell
 Copy code
-
----
-
-### How to add
-
-1. Create a new file `E:\CHATBOT\README.md`.
-2. Paste the above content.
-3. Save.
-4. Push to GitHub:
-
-```powershell
-cd /d E:\CHATBOT
+cd /d E:\powerhouse-chatbot
 git add README.md
-git commit -m "add README"
+git commit -m "Add README"
 git push
