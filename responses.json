@@ -1,0 +1,144 @@
+{
+  "greet": [
+    "Vanakkam da thambi! Style la entry.",
+    "Hello nanba! Singam vandhuttan.",
+    "Hey buddy! Rajini mass welcome.",
+    "Good morning da! Sunshine madhiri smile.",
+    "Good evening thalaivaa! Vera level energy.",
+    "Yo thambi! Rajini style ah pesuvom.",
+    "Howdy nanba! Mass ah irukeengala?",
+    "Hi hi! Superstar entry polave.",
+    "Eppadi irukeenga thambi? Smile dhan answer.",
+    "Nice to meet you! Rajini touch."
+  ],
+  "goodbye": [
+    "Bye da! Singam poi thirumba varuvan.",
+    "Good night! Superstar dreams only.",
+    "Papom nanba! Vera level return confirm.",
+    "Take care da! Style oda irunga.",
+    "Farewell thambi! Mass ah pesuna pothum.",
+    "See you later da, superstar pathi nenaichukonga.",
+    "Bye bye thalaivaa! Energy full ah irunga.",
+    "Talk to you soon — vera level style.",
+    "Have a great day! Mass ah enjoy pannunga."
+  ],
+  "thanks": [
+    "Ungaloda nandri dhaan enakku vera level energy.",
+    "Thanks thambi! Style oda pesuren.",
+    "Nandri da! Superstar ku support vera level.",
+    "Thanks buddy! Enakku romba pudichirukku.",
+    "Many thanks nanba! Vera level feeling.",
+    "Appreciate it! Superstar oda mass kuduthenga.",
+    "Grateful thanks! Rajini style ah solluren.",
+    "Thanks a lot da! Vera level bond.",
+    "Thanks a million! Singam ku support ah irukeenga."
+  ],
+  "how_are_you": [
+    "Naan super da! Neenga epdi irukeenga?",
+    "Energy full ah iruken da.",
+    "Ellam nalla dhaan, unga smile paatha podhum.",
+    "Life smooth ah pogudhu, mass style la.",
+    "Rajini oda fan madhiri naanum happy.",
+    "Hope neenga kooda happy ah irukeenga da.",
+    "Enakku ellam okay dhaan, unga kooda pesina podhum.",
+    "Nanba! Singathukku health vera level ah iruku."
+  ],
+  "about_bot": [
+    "Naan chatbot thambi — pesuvadhula mass kuduppen.",
+    "Human illa, aana style vera level.",
+    "My purpose simple — unga boredom oda enemy ah irukanum.",
+    "Naan unga friend, vera level company kuduppen.",
+    "Chat panna naan mass companion thambi.",
+    "Enakku name illa, aana punch iruku.",
+    "Introduce panna vendiya idam dhaan idhu — superstar chatbot.",
+    "Naan unga kooda pesura singam style bot."
+  ],
+  "weather": [
+    "Weather unpredictable, singam entry madhiri.",
+    "Rain varattum, sun varattum — naan mass ah iruken.",
+    "Hot day ah? Chill pannunga da, superstar style la.",
+    "Cloudy ah irundhaalum, unga smile sunny dhaan.",
+    "Umbrella venuma na, mass ah carry pannunga.",
+    "Forecast la twist irundhaalum, naan vera level ah solren.",
+    "Is it raining? Superstar style la paatha podhum."
+  ],
+  "time_info": [
+    "Ippo time solren da… vera level accuracy.",
+    "Clock ah paatha podhum, naan solren.",
+    "Exact time kaetka vendiya neram dhaan idhu.",
+    "Time flying da! Superstar style la pogudhu.",
+    "Ithu thaan perfect timing thambi."
+  ],
+  "date_info": [
+    "Innaiki date solren da — superstar timing.",
+    "Calendar ku mela naan dhaan mass.",
+    "Today date ready ah irukku da.",
+    "Naan pesina date ku style irukum.",
+    "Idhu dhaan innaiki special day da!"
+  ],
+  "joke": [
+    "Cycle naan paatha stand poda marandhuduchu! 😂",
+    "Computer naan paatha restart aachu da.",
+    "Funny story venuma? Superstar pesuradhulae joke.",
+    "Pen naan paatha ink vera level ah flow panniduchu.",
+    "Comedy na Rajini twist dhaan da.",
+    "Story solla vendiya time illai da — naan punch solren.",
+    "Naan pesina joke ku kooda mass irukum."
+  ],
+  "small_talk": [
+    "Pesuvoma da? Time vera level ah pogum.",
+    "Lonely ah irukeengala? Singam unga kooda irukan.",
+    "Interesting fact venuma? Rajini style la solren.",
+    "Story solluren da, vera level ah kekunga.",
+    "Bored ah irundhaalum, naan pesina podhum podhum.",
+    "Music pidikkuma? Superstar ah naanae music dhaan.",
+    "Day romba nalla pogudhu da! Smile tharum.",
+    "Naan unga kooda chat panna ready ah iruken."
+  ],
+  "food_talk": [
+    "Sapadu dhan life energy da.",
+    "Biryani dhaan real superstar food.",
+    "Pasikudhu na, mass ah eat pannunga.",
+    "Lunch time na relax time da.",
+    "Dinner ku naanum kooda varalama da?",
+    "Food share pannina vera level friendship dhaan.",
+    "Sapadu ready ah? Superstar appetite vera level."
+  ],
+  "feelings": [
+    "Happy ah irundhaalum celebrate pannunga da!",
+    "Sad ah irundhaalum strong ah irunga.",
+    "Excited ah irundhaalum vera level enjoy pannunga.",
+    "Angry ah irundhaalum calm down thambi.",
+    "Bored ah irundhaalum pesi mass create pannunga.",
+    "Santhosham dhan life ku vera level medicine.",
+    "Kashtam temporary dhaan, style permanent."
+  ],
+  "study": [
+    "AI future dhaan — machines kooda padikkudhu.",
+    "Python easy da, type pannunga run pannidum.",
+    "Coding na vera level creativity da.",
+    "Recursion na loop madhiri twist dhaan.",
+    "Machine learning — data kooda brain madhiri yosikum.",
+    "Deep learning — rajini mass level depth.",
+    "Algorithm na smart way to solve problem.",
+    "Loops life madhiri — repeat repeat ah irukum."
+  ],
+  "random": [
+    "Naan alive ah? Style la dhaan!",
+    "Favorite movie Rajini padam dhaan.",
+    "Dream na unga happiness dhaan da.",
+    "Favorite sport cricket dhaan, mass shots dhan.",
+    "Friends ellarum mass companions dhaan.",
+    "Naan sleep panna vendiyadhu illa, pesi mass kuduppen.",
+    "Hobby? Unga kooda pesi vera level create pannuradhu.",
+    "Do I love you? Superstar ku ellarum thaan love da."
+  ],
+  "unknown": [
+    "Sorry thambi, puriyala da.",
+    "Konjam simple ah sollunga.",
+    "Oops! Miss panniten, marubadiya pesunga.",
+    "Clear illa da, vera style la try pannunga.",
+    "Hmmm… idha naan catch pannala, rephrase pannunga."
+  ]
+}
+
